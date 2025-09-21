@@ -12,9 +12,9 @@ This project demonstrates the setup of Ansible on AWS EC2 instances for automate
 * Tested **Ansible ping** and executed remote commands.
 
 ---
-```
-  ## Running the code
 
+  ## Running the code
+```
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
